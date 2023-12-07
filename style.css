@@ -1,0 +1,66 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    background-image: linear-gradient(135deg , #ff0844 0%, #ffb199 70%);
+    background-image: linear-gradient(135deg, #f43b47 0%, #453a94 100%);
+
+
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+font-family: 'Rubik', sans-serif;
+}
+
+h1{
+    font-family: castellar,sans-serif;
+    font-size: 50px;
+}
+
+h2{
+    
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background: white;
+    padding: 15px;
+    border-radius: 80%;
+    width: 800px;
+    margin: auto;
+    box-shadow: 0 0 10px red ;
+    color:black;
+    font-size: 25px;
+    font-family: "Comic Sans Ms",sans-serif;
+
+
+}
+table{
+    width:100%;
+}
+img {
+    border-radius: 10px;
+    box-shadow: 0 0 20px black;
+}
+
+p{
+    font-size: 20px;
+    color:white;
+
+}
+hr {
+    background:white;
+    
+}
+.footer {
+    font-family: sans-serif ;
+    font-weight: 300;
+
+}
+.copyright-bar {
+    font-family: sans-serif;
+    font-weight: 300;
+}
